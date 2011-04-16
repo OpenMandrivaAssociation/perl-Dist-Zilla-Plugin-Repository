@@ -3,7 +3,7 @@
 
 Name:       perl-%{upstream_name}
 Version:    %perl_convert_version %{upstream_version}
-Release:    %mkrel 1
+Release:    %mkrel 2
 
 Summary:    Automatically sets repository URL from svn/svk/Git checkout for Dist::Zilla
 License:    GPL+ or Artistic
