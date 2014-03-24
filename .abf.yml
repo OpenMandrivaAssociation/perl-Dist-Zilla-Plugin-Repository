@@ -1,2 +1,4 @@
+removed_sources:
+  Dist-Zilla-Plugin-Repository-0.15.tar.gz: 8585effa3661d66d2a3f7866529e3dd25cb94124
 sources:
-  "Dist-Zilla-Plugin-Repository-0.15.tar.gz": 8585effa3661d66d2a3f7866529e3dd25cb94124
+  Dist-Zilla-Plugin-Repository-0.20.tar.gz: 55c87d3109aab4b9816c17dde6bd35710508597b
